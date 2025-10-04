@@ -8,7 +8,7 @@ We appreciate your help!
 3. Commit your changes (e.g., `git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (e.g., `git push origin feature/AmazingFeature`).
 5. Open a pull request.
-6. Request a code review from your peers by tagging them in the pull request comments.
+6. Request a code review from your peers by tagging them in the pull request comments. **Ensure that the review process is completed before merging.**
 
 ## Submission Checklist
 - [ ] Code style follows the project's conventions.
