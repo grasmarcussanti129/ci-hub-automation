@@ -8,6 +8,7 @@ We appreciate your help!
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
+6. Request a code review from your peers.
 
 Please ensure your code adheres to the following:
 - Code style follows the project's conventions.
