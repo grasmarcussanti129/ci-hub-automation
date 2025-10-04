@@ -13,4 +13,4 @@ We appreciate your help!
 ## Submission Checklist
 - [ ] Code style follows the project's conventions.
 - [ ] Write tests for your changes.
-- [ ] Include documentation for any new features.
+- [ ] Include documentation for any new features or changes made to existing features.
