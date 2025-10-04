@@ -10,7 +10,7 @@ We appreciate your help!
 5. Open a pull request.
 6. Request a code review from your peers.
 
-Please ensure your code adheres to the following:
-- Code style follows the project's conventions.
-- Write tests for your changes.
-- Include documentation for any new features.
+## Submission Checklist
+- [ ] Code style follows the project's conventions.
+- [ ] Write tests for your changes.
+- [ ] Include documentation for any new features.
